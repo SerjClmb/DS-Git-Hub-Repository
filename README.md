@@ -5,5 +5,5 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-scienti
 
 [Project 0. Game: guess the number](https://github.com/SerjClmb/DS-Git-Hub-Repository/tree/main/project_0)
 
-
+[Project 1. Check correct date](https://github.com/SerjClmb/DS-Git-Hub-Repository/tree/main/project_1)
 
