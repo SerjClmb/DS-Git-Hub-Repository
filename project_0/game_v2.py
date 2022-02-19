@@ -24,7 +24,7 @@ def random_predict(number:int=1) -> int:
 
 def score_game(random_predict) -> int:
     count_ls = []
-    np.random.seed(1)
+    #np.random.seed(1)
     random_array = np.random.randint(1, 101, size=(1000))
     
     for number in random_array:
