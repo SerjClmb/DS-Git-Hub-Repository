@@ -5,7 +5,7 @@
 [2. Какой кейс решаем?](https://github.com/SerjClmb/DS-Git-Hub-Repository/tree/main/guess-number-task#Какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/SerjClmb/DS-Git-Hub-Repository/tree/main/guess-number-task#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/SerjClmb/DS-Git-Hub-Repository/tree/main/guess-number-task#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/SerjClmb/DS-Git-Hub-Repository/tree/main/guess-number-task#Результат)    
+[5. Результат](https://github.com/SerjClmb/DS-Git-Hub-Repository/tree/main/guess-number-task#Результаты)    
 [6. Выводы](https://github.com/SerjClmb/DS-Git-Hub-Repository/tree/main/guess-number-task#Выводы) 
 
 ### Описание проекта    
