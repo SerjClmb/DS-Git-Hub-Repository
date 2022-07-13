@@ -1,4 +1,4 @@
-# **Project 2. Анализ вакансий из HeadHunter**
+# **Project 1. Анализ вакансий из HeadHunter**
 
 
 ### **Project discription / Описание проекта**
