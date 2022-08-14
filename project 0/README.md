@@ -8,7 +8,7 @@
 
 ### **Что практикуем.**
 
-Работу с библиотеками **Matplotlib**, **Seaborn** и **Plotly.Express**  
+Работу с библиотеками **Matplotlib**, **Seaborn** и **Plotly.Express**.   
 Также анализ полученных данных.
 
 ### **Summary of data / Краткая информация о данных**
