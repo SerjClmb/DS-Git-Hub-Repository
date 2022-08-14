@@ -27,3 +27,5 @@
 В итоге имеем два фала Jupiter Notebook.  
 Первый [Data leave of bank_any](https://github.com/SerjClmb/DS-Git-Hub-Repository/blob/main/project%200/Data%20leave%20of%20bank_any.ipynb) создан с использованием различных библиотек.  
 Второй [Data leave of bank_plotly](https://github.com/SerjClmb/DS-Git-Hub-Repository/blob/main/project%200/Data%20leave%20of%20bank_plotly.ipynb) создан только с помощью библиотеки plotly.express.  
+
+My mail: mordovins@mail.ru
