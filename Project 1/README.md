@@ -25,3 +25,4 @@ https://drive.google.com/file/d/1EX_-0RG65TR9uRk8Xq9g-QhEh4VxQbzv/view?usp=shari
 - 3 разведывательный анализ  
 - 4 очистка данных
 
+My mail: mordovins@mail.ru
