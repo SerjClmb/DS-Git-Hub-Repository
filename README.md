@@ -10,3 +10,5 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-scienti
 []()
 
 []()
+
+My mail: mordovins@mail.ru
